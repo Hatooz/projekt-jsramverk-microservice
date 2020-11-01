@@ -89,6 +89,6 @@ setInterval(() => {
 }, 600000);
 
 
-server.listen(3000, () => {
-    console.log("Listening to port 3k");
+server.listen(1339, () => {
+    console.log("Listening to port 1339");
 })
