@@ -80,7 +80,7 @@ setInterval(() => {
   ] 
   
   io.emit('ching', dataset);
-}, 25);
+}, 5000);
  
 setInterval(() => {
   apiLabels = apiLabels[apiLabels.length - 1];
